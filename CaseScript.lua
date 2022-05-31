@@ -1,4 +1,5 @@
 ---@diagnostic disable: undefined-global
+--- Yes, the name is placeholder (probably). Please don't harrass me over it lmao.
 
 VERBOSE = true
 SCRIPT_SILENT_START = true
